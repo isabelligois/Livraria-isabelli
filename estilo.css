@@ -13,7 +13,7 @@ body {
 }
 
 header {
-    background-color: #333; /* Define a cor de fundo */
+    background-color: #e28e8e; /* Define a cor de fundo */
     color: #fff; /* Define a cor do texto */
     text-align: center; /* Centraliza o texto */
     padding: 1rem; /* Define um espaçamento interno */
@@ -42,8 +42,8 @@ main {
 .card {
     width: calc(33.33% - 20px); /* 33.33% - 40px */
     margin: 5px; /* Define um espaçamento externo */
-    padding: 25px; /* Define um espaçamento interno */
-    background-color: #fff; /* Define a cor de fundo */
+    padding: 30px; /* Define um espaçamento interno */
+    background-color: #ff9fe7; /* Define a cor de fundo */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra */
     text-align: center; /* Centraliza o texto */
     float: left; /* Faz com que os elementos fiquem na mesma linha */
@@ -55,7 +55,7 @@ main {
 }
 
 .card button {
-    background-color: #333;
+    background-color: #ff00dd;
     color: #fff;
     border: none;
     padding: 8px 16px;
@@ -65,12 +65,12 @@ main {
 }
 
 .card button:hover {
-    background-color: #555; /* Muda a cor de fundo ao passar o mouse */
+    background-color: #ad2525; /* Muda a cor de fundo ao passar o mouse */
 }
 
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #e28e8e;
+    color: #ffffff;
     text-align: center;
     padding: 1rem;
 }
