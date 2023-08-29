@@ -41,8 +41,8 @@ main {
 
 .card {
     width: calc(33.33% - 20px); /* 33.33% - 40px */
-    margin: 10px; /* Define um espaçamento externo */
-    padding: 20px; /* Define um espaçamento interno */
+    margin: 5px; /* Define um espaçamento externo */
+    padding: 25px; /* Define um espaçamento interno */
     background-color: #fff; /* Define a cor de fundo */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra */
     text-align: center; /* Centraliza o texto */
