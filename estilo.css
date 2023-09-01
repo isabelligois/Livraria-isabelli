@@ -1,4 +1,5 @@
 /* estilos.css */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
 
 /* Reset de Estilos */
 * {
@@ -8,7 +9,7 @@
 }
 
 body {
-    font-family: Arial, sans-serif; /* Define a fonte padrão */
+    font-family: Playfair Display, sans-serif; /* Define a fonte padrão */
     background-color: #f0f0f0; /* Define a cor de fundo */
 }
 
@@ -74,3 +75,16 @@ footer {
     text-align: center;
     padding: 1rem;
 }
+.btn {
+    font-family: Playfair Display;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 15px;
+    background-color: #e28e8e(122, 0, 0);
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+.btn :hover {background-color: rgb(255, 255, 255);}
+section{padding-bottom: 10px;}
+{margin-bottom: 10px;}
